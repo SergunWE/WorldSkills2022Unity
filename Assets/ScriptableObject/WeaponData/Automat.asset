@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6deaf4672f658d40b6464cd33ed17f1, type: 3}
+  m_Name: Automat
+  m_EditorClassIdentifier: 
+  id: 2
+  clipBullet: 30
+  maxBullet: 90
+  shootTime: 0.1
+  reloadTime: 2
+  damage: 20
+  shootAudio: {fileID: 8300000, guid: eb8db376ee229124799f452cfc6f0833, type: 3}
+  reloadAudio: {fileID: 8300000, guid: c60953862b92d8e4d96e7f4a04670036, type: 3}
+  model: {fileID: -927199367670048503, guid: f195a1c5c53e4f941ba323a19344c013, type: 3}
+  zoom: 20

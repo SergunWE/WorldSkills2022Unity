@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6deaf4672f658d40b6464cd33ed17f1, type: 3}
+  m_Name: RPG
+  m_EditorClassIdentifier: 
+  id: 5
+  clipBullet: 1
+  maxBullet: 5
+  shootTime: 1
+  reloadTime: 2
+  damage: 90
+  shootAudio: {fileID: 8300000, guid: 41d2019feb39ff44881bfcc712460644, type: 3}
+  reloadAudio: {fileID: 8300000, guid: f146497a7135b324d8b57b38632baf7a, type: 3}
+  model: {fileID: -927199367670048503, guid: eb116bd20f7aee9438de2ee2007e0ed4, type: 3}
+  zoom: 30
