@@ -1,3 +1,3 @@
 # WorldSkills2022Unity
 
-Выполненный проект на соревнованиях WorldSkills Russia 2022 в компетенции "Разработка компьютерных игр и мультимедийных приложений".
+Completed project at the WorldSkills Russia 2022 competition in the competence "Development of computer games and multimedia applications".
